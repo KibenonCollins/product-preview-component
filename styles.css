@@ -116,7 +116,7 @@ main{
         display: block;
     }
     .bottle-image{
-        content:url("/images/image-product-mobile.jpg");
+        content:url("./images/image-product-mobile.jpg");
     }
     .bottle-image img{
         border-radius: 5% 5% 0 0;
